@@ -1,4 +1,4 @@
-## Project Title: Link & Network Layer Forwarding
+## Link & Network Layer Forwarding
 
 ## Overview
 
