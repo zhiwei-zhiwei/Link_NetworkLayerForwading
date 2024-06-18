@@ -1,8 +1,4 @@
-# README
-
 ## Project Title: Link & Network Layer Forwarding
-
-### Course: CS640 Fall 2022
 
 ## Overview
 
